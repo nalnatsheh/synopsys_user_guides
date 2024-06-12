@@ -1,6 +1,7 @@
 # synopsys_user_guides
 * * *
-This repository contains some user guides for the Synopsys EDA tools. Below are the list of the user guides along with the specific version. 
+This repository contains a pdf version for some user guides for the Synopsys EDA tools. Below are the list of the user guides along with the their specific versions. 
+
 ### Simulation
 * HSPICE® User Guide: Basic Simulation and Analysis
   - Version H-2013.03, March 2013
