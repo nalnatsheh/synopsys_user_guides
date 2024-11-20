@@ -18,7 +18,7 @@ This repository contains a pdf version for some user guides for the Synopsys EDA
 * Verification Continuum™ VCS User Guide
   - Version V-2023.12, December 2023
 
-* Formality® User Guide Version D-2010.03, March 2010
+* Formality® User Guide 
   - Version D-2010.03, March 2010
 * Formality® User Guide
   - Version T-2022.03, March 2022
